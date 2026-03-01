@@ -1,0 +1,7 @@
+{
+  "name": "NEURON - Cognitive Optimization Ecosystem",
+  "description": "A premium neural interface for extreme productivity, mental clarity, and biological hardware optimization through biohacking tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
